@@ -19,3 +19,5 @@ Constants used:
 
 # Loss function: Meaen squared error
 # Optimizer: 	 RMS prop
+
+# Final trainied weights: bestWt.zip
